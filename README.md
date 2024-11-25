@@ -25,4 +25,4 @@ Don't laugh at me, I'm just a beginner.
 ---
 
 <a href="https://github.com/isPainting" alt="https://github.com/isPainting"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=isPainting&color=000000"></a>
-<a href="https://github.com/isPainting/isPainting/blob/main/LICENSE" alt="https://github.com/isPainting/isPainting/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+<a href="https://github.com/isPainting/isPainting/" alt="https://github.com/isPainting/isPainting/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
