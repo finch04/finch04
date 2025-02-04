@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Finch<img
+<h1 align="center">Hi there, I'm Fushenqi<img
 src="https://github.com/isPainting/isPainting/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
