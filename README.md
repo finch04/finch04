@@ -13,7 +13,6 @@ Outside of coding, I enjoy thinking about life, people, and society.
 
 ↓If you have thoughts on computer science or would like to know more about me, feel free to reach out!
 
-<br />
 <a href="mailto:1418875140@qq.com"><img src="https://github.com/isPainting/isPainting/raw/main/images/social-mail.svg" height="40" /></a>
 <br />
 
