@@ -11,7 +11,7 @@ I'm always eager to learn new technologies and collaborate with others to solve 
 
 Outside of coding, I enjoy thinking about life, people, and society.
 
-↓If you have thoughts on computer science or would like to know more about me, feel free to reach out!
+If you have thoughts on computer science or would like to know more about me, feel free to reach out!
 
 <a href="mailto:1418875140@qq.com"><img src="https://github.com/isPainting/isPainting/raw/main/images/social-mail.svg" height="40" /></a>
 <br />
