@@ -28,7 +28,7 @@ Looking forward to connecting with you!
 
 ## Tech Stack 🔧
 
-`Java` • `Vue` • `SpringBoot/SpringCloud` • `Relational Database` • `NoSQL` • `Distributed Systems` • `DevOps`
+`Java` • `Vue` • `SpringBoot/SpringCloud` • `Relational Database` • `NoSQL` • `Distributed Systems` • `Microservices` • `DevOps`
 
 
 <a href="https://github.com/finch04" alt="https://github.com/isPainting"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Finch&color=000000"></a>
