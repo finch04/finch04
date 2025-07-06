@@ -28,10 +28,8 @@ Looking forward to connecting with you!
 
 ## Tech Stack 🔧
 
-`Java` • `GO` • `SpringBoot/SpringCloud` • `MySQL` • `Redis` • `Distributed Systems` • `DevOps`
-
-> *“Talk is cheap, show me the code”*
+`Java` • `Vue` • `SpringBoot/SpringCloud` • `Relational Database` • `NoSQL` • `Distributed Systems` • `DevOps`
 
 
-<a href="https://github.com/fu-shenqi" alt="https://github.com/isPainting"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Finch&color=000000"></a>
-<a href="https://github.com/fu-shenqi" alt="https://github.com/isPainting/isPainting/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+<a href="https://github.com/finch04" alt="https://github.com/isPainting"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Finch&color=000000"></a>
+<a href="https://github.com/finch04" alt="https://github.com/isPainting/isPainting/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
