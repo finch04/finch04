@@ -2,7 +2,7 @@
 
 <a href="#"><img align="right" src="https://github.com/isPainting/isPainting/raw/main/images/banner.gif" width="200px" height="200px" /></a>
 
-I’m a computer science student focusing on Java, but I value creative ideas more than technical skills.
+I’m a software engineering student focusing on Java, but I value creative ideas more than technical skills.
 
 I’m passionate about contributing to open-source projects and building impactful tools. Eager to learn new technologies, I enjoy collaborating with others to solve real-world problems.
 
