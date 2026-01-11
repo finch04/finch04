@@ -11,7 +11,6 @@ Outside of coding, I love reflecting on life, humanity, and society, while shari
 Looking forward to connecting with you!
 
 
-- 🔭 <a href="http://47.94.183.162">My Space</a>
 - ⚡ <a href="https://blog.csdn.net/weixin_73195042">My CSDN</a>
 - 🌱 <a href="https://gitee.com/fu-shenqi">My Gitee</a>
 - 👯 <a href="https://osc.tsguas.cn/">My Campus club</a>
