@@ -1,14 +1,20 @@
-## Finch 👋
+<h1 align="center">
+  Hi there, I'm Finch 👋
+</h1>
 
 <a href="#"><img align="right" src="https://github.com/isPainting/isPainting/raw/main/images/banner.gif" width="200px" height="200px" /></a>
 
-I’m a software engineering student focusing on Java, but I value creative ideas more than technical skills.
+I’m a student focused on Java & AI development.📚︎
 
-I’m passionate about contributing to open-source projects and building impactful tools. Eager to learn new technologies, I enjoy collaborating with others to solve real-world problems.
+While I keep improving my technical skills, I value creative thinking and original ideas even more. 💡
 
-Outside of coding, I love reflecting on life, humanity, and society, while sharing knowledge across platforms. 
+I’m passionate about contributing to open-source projects and building practical, impactful tools.👐
 
-Looking forward to connecting with you!
+I’m always eager to learn new technologies and enjoy collaborating with others to solve real-world problems.⚙︎
+
+Beyond coding, I love reflecting on life, humanity, and society, and I enjoy sharing insights and knowledge across different platforms.❤️‍🔥
+
+Looking forward to connecting with you!😇
 
 
 - ⚡ <a href="https://blog.csdn.net/weixin_73195042">My CSDN</a>
@@ -16,18 +22,12 @@ Looking forward to connecting with you!
 - 👯 <a href="https://osc.tsguas.cn/">My Campus club</a>
 - 📫 <a href="mailto:1418875140@qq.com">My Email</a>
 
----
-
-## My Experience ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=finch04&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finch04&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ---
 
 ## Tech Stack 🔧
 
-`Java` • `Spring Frameworks` • `Relational Database` • `NoSQL` • `Distributed Systems` • `Microservices` • `DevOps`
+`Java` • `AI` • `Spring Frameworks` • `Relational Database` • `NoSQL` • `Distributed Systems` • `Microservices` • `DevOps`
 
 
 <a href="https://github.com/finch04" alt="https://github.com/isPainting"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Finch&color=000000"></a>
